@@ -127,7 +127,7 @@ Sentences that announce importance without naming the specific thing. Kill these
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
 
-Subtle AI tells
+## Subtle AI tells
 These are the patterns that may survive. Remove them:
 
 "This means that..." — lazy connector. The writer didn't earn the transition.
