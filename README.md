@@ -55,10 +55,6 @@ Rate 1-10 on each dimension:
 
 Below 35/50: revise.
 
-## Author
-
-[Hardik Pandya](https://hvpandya.com)
-
 ## License
 
 MIT. Use freely, share widely.
