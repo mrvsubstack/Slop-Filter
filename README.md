@@ -205,7 +205,7 @@ stop-the-slop/
 │   ├── examples.md             # 13 before/after examples (5 obvious, 8 subtle)
 │   ├── phrases.md              # Banned phrases + second-generation tells
 │   └── structures.md           # Structural patterns with generative rules
-└── LICENSE
+└── README.md
 ```
 
 ---
