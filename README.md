@@ -178,7 +178,7 @@ Those are different questions. The first has an expiry date. The second doesn't.
 
 ## Who this is for?
 
-**Newsletter writers** who use AI to draft and need the output to sound like them, not like a model trying to sound helpful.
+**Writers** who use AI to draft and need the output to sound like them, not like a model trying to sound helpful.
 
 **Ghostwriters** reviewing AI-assisted drafts before they go to clients.
 
@@ -202,10 +202,9 @@ It won't guarantee AI detection scores. Detection tools measure statistical patt
 stop-the-slop/
 ├── SKILL.md                    # Core instructions, scoring, quick checks
 ├── references/
+│   ├── examples.md             # 13 before/after examples (5 obvious, 8 subtle)
 │   ├── phrases.md              # Banned phrases + second-generation tells
-│   ├── structures.md           # Structural patterns with generative rules
-│   └── examples.md             # 13 before/after examples (5 obvious, 8 subtle)
-├── README.md
+│   └── structures.md           # Structural patterns with generative rules
 └── LICENSE
 ```
 
