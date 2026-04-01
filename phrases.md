@@ -127,51 +127,86 @@ Sentences that announce importance without naming the specific thing. Kill these
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
 
-## Subtle AI tells (Second-Generation)
+## Second-Generation Tells
+ 
 These survive the first pass because they don't appear on standard lists. They're subtler than obvious slop but produce the same distance and drift. Look for these after clearing the obvious patterns.
-Lazy connectors — the writer didn't earn the transition:
-
-"This means that..."
-"This creates a situation where..."
-"This leads to..."
-"Which means..."
-
-Conditional filler — sounds thoughtful, reads as stall:
-
-"When you X, you Y" (as an opener)
-"If you've ever X, you know Y"
-"For many people..."
-"In many ways..."
-
-Circling instead of landing:
-
-"There's something about X that..."
-"What makes X interesting is..."
-"Part of what makes X work is..."
-
-Announcing the example instead of giving it:
-
-"What this looks like in practice..."
-"Here's an example of that:"
-"To illustrate this point..."
-
-Moralizing closers:
-
-"It's a reminder that..."
-"That's worth remembering."
-"That's the lesson here."
-
-Performative tension:
-
-"And yet."
-"But here's the thing."
-"Except."
+ 
+**Lazy connectors** — the writer didn't earn the transition:
+- "This means that..."
+- "This creates a situation where..."
+- "This leads to..."
+- "Which means..."
+ 
+**Conditional filler** — sounds thoughtful, reads as stall:
+- "When you X, you Y" (as an opener)
+- "If you've ever X, you know Y"
+- "For many people..."
+- "In many ways..."
+ 
+**Circling instead of landing:**
+- "There's something about X that..."
+- "What makes X interesting is..."
+- "Part of what makes X work is..."
+ 
+**Announcing the example instead of giving it:**
+- "What this looks like in practice..."
+- "Here's an example of that:"
+- "To illustrate this point..."
+ 
+**Moralizing closers:**
+- "It's a reminder that..."
+- "That's worth remembering."
+- "That's the lesson here."
+ 
+**Performative tension:**
+- "And yet."
+- "But here's the thing."
+- "Except."
 (as standalone sentences for dramatic effect)
-
-Rhetorical pause before stating the obvious:
-
-"The result?"
-"The answer?"
-"Why?"
-
-Generative rule: These patterns exist because the model is buying time before committing to a specific claim. Any sentence that announces, circles, or pauses before the point is doing this. The fix is always the same: delete the setup and open with the claim.
+ 
+**Rhetorical pause before stating the obvious:**
+- "The result?"
+- "The answer?"
+- "Why?"
+ 
+**Generative rule:** These patterns exist because the model is buying time before committing to a specific claim. Any sentence that announces, circles, or pauses before the point is doing this. The fix is always the same: delete the setup and open with the claim.
+ 
+---
+ 
+## Opener Uniformity
+ 
+Scan the first word of every sentence in the piece. If 3+ sentences open with the same word, the writing is patterned. AI defaults to "The", "This", "It", "You", "There" — rotating through a small set.
+ 
+**What to look for:**
+- 3+ sentences starting with "The"
+- 3+ sentences starting with "This"
+- Every paragraph opening with "It is" or "There is"
+- Consecutive sentences starting with the same word
+ 
+**Fix:** Restructure openers to start with: a name, a number, a verb, a time reference, a place, a conjunction used intentionally ("But three weeks later..."). Human writers vary entry points. The first word of a sentence is a choice — make it different each time.
+ 
+---
+ 
+## Semantic Repetition
+ 
+The same idea appearing in different words across paragraphs. AI fills space by restating. A paragraph ends with a conclusion; the next paragraph opens by restating that conclusion as a premise.
+ 
+**What to look for:**
+- Last sentence of paragraph A makes a claim. First sentence of paragraph B restates it.
+- The same concept appears 3+ times across the piece in different phrasing.
+- A paragraph's first and last sentence say the same thing.
+ 
+**Fix:** Cut one instance. The idea doesn't get stronger by repetition — it gets weaker. If the point was made in paragraph A, paragraph B starts somewhere new.
+ 
+---
+ 
+## Topic Sentence Pattern
+ 
+Every paragraph opening with a summary of what the paragraph will say. Sounds organized. Reads as formulaic. Real writing doesn't announce itself — it moves.
+ 
+**What to look for:**
+- Every paragraph starts with a broad claim that the paragraph then supports.
+- The first sentence of each paragraph could stand alone as a complete thought without the rest.
+- Reading only first sentences tells you the whole piece — nothing is discovered mid-paragraph.
+ 
+**Fix:** Start one paragraph mid-argument. Start one with a specific detail that earns the general claim by the end. Let at least one paragraph's point emerge from the evidence rather than precede it.
