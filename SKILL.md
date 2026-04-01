@@ -1,7 +1,7 @@
 ---
 name: stop-the-slop
 description: >
-  Eliminate AI writing patterns from prose — rewrites, edits, scoring, and diagnostics.
+  Eliminate AI writing patterns from prose — humanizations, rewrites, edits, scoring, and diagnostics.
   Use this skill whenever the user says "humanize this" "rewrite this," "edit this," "make this better",
   "clean this up," "make this sound human," "write naturally," "review this draft," 
   "too much AI slop," or pastes text and asks for feedback. Also trigger when the user 
