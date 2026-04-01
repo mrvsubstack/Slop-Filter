@@ -1,13 +1,12 @@
 # stop-the-slop
 A skill for removing AI tells from prose.
 
-
 ## What this is
 
 AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them.
 Use this when you want your writing to sound like a real person. Use it when drafting, rewriting content, editing, or reviewing text to eliminate predictable AI tells.
 
-## Whose's it for
+## Who’s it for?
 Content creators and writers 👍✅
 
 ## How to use it
