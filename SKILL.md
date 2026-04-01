@@ -6,8 +6,7 @@ description: >
   "clean this up," "make this sound human," "write naturally," "review this draft," 
   "too much AI slop," or pastes text and asks for feedback. Also trigger when the user 
   shares a paragraph and says anything like "Make it clear," "too formal," "does this sound AI?" "too robotic," "fix the voice,"
-  or "this doesn't sound natural." "make it better" "improve this"
-If prose is involved and quality is the question, use this skill.
+  or "this doesn't sound natural." "make it better" "improve this" If prose is involved and quality is the question, use this skill.
 ---
 
 # Stop the Slop
