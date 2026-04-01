@@ -127,7 +127,7 @@ Sentences that announce importance without naming the specific thing. Kill these
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
 
-## Subtle AI tells
+## Subtle AI tells (Second-Generation)
 These survive the first pass because they don't appear on standard lists. They're subtler than obvious slop but produce the same distance and drift. Look for these after clearing the obvious patterns.
 Lazy connectors — the writer didn't earn the transition:
 
