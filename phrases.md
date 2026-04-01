@@ -1,6 +1,6 @@
 # Phrases to Remove
 
-## Throat-Clearing Openers
+## Throat-Clearing Openers 
 
 Remove these announcement phrases. State the content directly.
 
