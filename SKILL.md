@@ -81,8 +81,8 @@ Rate 1–10 on each dimension using the anchors below.
 | Score | Label | Action |
 |-------|-------|--------|
 | 46–50 | Clean | Deliver as it is |
-| 36–45 | Light edit needed | Fix it and deliver |
-| <35 | Rewrite required | Full rewrite before delivering |
+| 36–45 | Light edit needed | Fix it then deliver |
+| <35 | Rewrite required | Full rewrite required before delivering |
 
 ---
 
