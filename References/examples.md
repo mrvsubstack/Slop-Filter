@@ -1,6 +1,6 @@
 # Before/After Examples
 
-## Standard Failures
+## Standard Failures 
 
 These trigger obvious rules. Use for calibration on clear-cut cases.
 
