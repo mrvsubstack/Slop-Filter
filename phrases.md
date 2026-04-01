@@ -1,6 +1,6 @@
 # Phrases to Remove
 
-## Cut the Filler Openers 
+## Throat-Clearing Openers
 
 Cut the Warm-Up phrases. Get straight to the point.
 
