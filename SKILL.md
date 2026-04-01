@@ -65,16 +65,24 @@ Run before delivering any prose:
 ---
 
 ## Scoring
-
-Rate 1–10 on each dimension. Below 35/50: revise before delivering.
-
-| Dimension | Question | Deduct when |
-|-----------|----------|-------------|
-| Directness | Statements or announcements? | Opens with context-setting instead of the point |
-| Rhythm | Varied or metronomic? | 3+ consecutive sentences match length |
-| Trust | Respects reader intelligence? | Explains what it just said, adds "and that's okay" |
-| Authenticity | Sounds human? | Any phrase from `phrases.md` present |
-| Density | Anything cuttable? | Paragraph has a sentence that removes without loss |
+ 
+Rate 1–10 on each dimension using the anchors below.
+ 
+| Dimension | 10 | 5 | 1 |
+|-----------|-----|---|---|
+| Directness | Immediate point | Mixed setup | Buried point |
+| Naturalness | Human voice | Mixed AI signals | Template-heavy |
+| Rhythm | Varied sentence flow | Moderate repetition | Mechanical pacing |
+| Clarity | Precise meaning | Slightly vague | Abstract filler |
+| Density | No waste | Some filler | Bloated |
+ 
+**Thresholds and actions:**
+ 
+| Score | Label | Action |
+|-------|-------|--------|
+| 46–50 | Clean | Deliver as-is |
+| 36–45 | Light edit needed | Fix and deliver |
+| <35 | Rewrite required | Full rewrite before delivering |
 
 ---
 
