@@ -1,8 +1,8 @@
 # Phrases to Remove
 
-## Throat-Clearing Openers 
+## Cut the Filler Openers 
 
-Remove these announcement phrases. State the content directly.
+Cut the Warm-Up phrases. Get straight to the point.
 
 - "Here's the thing:"
 - "Here's what [X]"
