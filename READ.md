@@ -7,8 +7,6 @@
 ---
 
 ## The problem with AI Humanizers
-The real problem with AI writing isn’t the fancy words.
-
 Run your text through any “humanizer” and it’ll happily swap “utilize” for “use,” delete every “furthermore,” and its Done.
 
 A real person reads it anyway and still spots it instantly.
@@ -104,22 +102,79 @@ Start every dimension at 10. Deductions are specific and enumerable — same tex
 
 ## What makes this different
 
-| Feature | Stop-the-Slop | Standard humanizers | "Make this sound human" prompt |
-|---------|:---:|:---:|:---:|
-| Sentence-level pattern removal | ✅ | ✅ | ⚠️ inconsistent |
-| Second-generation tells | ✅ | ❌ | ❌ |
-| Paragraph-level diagnosis | ✅ | ❌ | ❌ |
-| Opener uniformity check | ✅ | ❌ | ❌ |
-| Semantic repetition across paragraphs | ✅ | ❌ | ❌ |
-| Topic sentence pattern detection | ✅ | ❌ | ❌ |
-| Calibrated deduction scoring | ✅ | ❌ | ❌ |
-| Two-pass validation | ✅ | ❌ | ❌ |
-| Asks before inventing facts | ✅ | ❌ | ❌ |
-| Same score on same text every session | ✅ | ❌ | ❌ |
+Most people use one of four things to clean AI writing. None of them solve the actual problem.
+
+### vs. "Make this sound human" (ChatGPT / Claude / any AI prompt)
+
+Vague instruction, vague result. The model removes a few obvious phrases and calls it done. Nothing is pinned down, nothing is consistent, and the next session produces a different result on the same text.
+
+| Feature | Stop-the-Slop | Vague AI prompt |
+|---------|:---:|:---:|
+| Catches second-generation tells | ✅ | ❌ rarely |
+| Paragraph-level pattern diagnosis | ✅ | ❌ |
+| Opener uniformity check | ✅ | ❌ |
+| Semantic repetition across paragraphs | ✅ | ❌ |
+| Topic sentence pattern detection | ✅ | ❌ |
+| Calibrated deduction scoring | ✅ | ❌ |
+| Same score on same text every session | ✅ | ❌ varies |
+| Two-pass validation before delivery | ✅ | ❌ |
+| Asks before inventing specifics | ✅ | ❌ guesses |
+| Tells you exactly what failed and why | ✅ | ❌ |
 
 ---
 
-## Who this is for
+### vs. AI detectors (GPTZero, Originality.ai, Turnitin)
+
+Detectors tell you if you failed. They don't tell you what to fix or how. A score of 78% AI tells you nothing about which sentence caused it, why it reads that way, or what a better version looks like. They're a verdict without a diagnosis.
+
+They also update constantly. A technique that scores 0% today scores 60% next quarter when the model retrains.
+
+| Feature | Stop-the-Slop | AI detectors |
+|---------|:---:|:---:|
+| Tells you what to fix | ✅ | ❌ |
+| Rewrites the problem | ✅ | ❌ |
+| Diagnosis with exact failing phrase | ✅ | ❌ |
+| Works on voice quality, not statistics | ✅ | ❌ |
+| Results don't expire when detector updates | ✅ | ❌ |
+| Paragraph-level pattern detection | ✅ | ⚠️ basic |
+| Catches false agency and passive voice | ✅ | ❌ |
+| Catches opener uniformity | ✅ | ⚠️ partial |
+| Free to use | ✅ | ❌ $10–$30/mo |
+
+---
+
+### vs. Humanizer tools (Undetectable.ai, StealthGPT, Quillbot)
+
+They optimize for one thing: lowering a detector score. The technique is word swapping and sentence length variation — mechanical changes that fool a statistical model. The output often reads worse than the input. Their own before/after examples show broken grammar at high intensity.
+
+They also stop at the sentence level. Paragraph architecture, opener uniformity, semantic repetition across sections — none of that is touched.
+
+| Feature | Stop-the-Slop | Humanizer tools |
+|---------|:---:|:---:|
+| Output reads better than input | ✅ | ⚠️ not always |
+| Works at paragraph level | ✅ | ❌ |
+| Second-generation tell detection | ✅ | ❌ |
+| Doesn't break grammar | ✅ | ⚠️ at high intensity |
+| Diagnosis with exact failing phrase | ✅ | ❌ |
+| Calibrated scoring | ✅ | ❌ |
+| Doesn't expire when detectors update | ✅ | ❌ |
+| Asks before adding specifics | ✅ | ❌ invents |
+| Free to use | ✅ | ❌ subscription |
+| Voice-preserving | ✅ | ❌ replaces voice |
+
+---
+
+### The core difference
+
+Every other tool asks: *does this pass a detector?*
+
+This skill asks: *does this sound like a person wrote it?*
+
+Those are different questions. The first has an expiry date. The second doesn't.
+
+---
+
+## Who this is for?
 
 **Newsletter writers** who use AI to draft and need the output to sound like them, not like a model trying to sound helpful.
 
