@@ -1,5 +1,5 @@
 ---
-name: stop-the-slop
+name: stop-the-slop 
 description: >
   Eliminate AI writing patterns from prose — rewrites, edits, scoring, and diagnostics.
   Use this skill whenever the user says "rewrite this," "edit this," "does this sound AI?",
