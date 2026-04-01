@@ -1,4 +1,4 @@
-# Structures to Avoid
+# Structures to Avoid 
 
 ## Binary Contrasts
 
