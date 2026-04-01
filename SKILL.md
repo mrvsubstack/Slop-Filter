@@ -81,7 +81,7 @@ Removing bad patterns is half the job. The other half is closing the gap toward 
 
 **Opener diversity** — Scan the first word of each sentence across the piece. If more than 3 start with the same word, restructure. Human writers start sentences with names, numbers, verbs, conjunctions, time references — not just "The" and "This."
 
-**Specificity ratio** — Count vague nouns vs. named things. "Teams struggle" is vague. "The engineering team at Stripe" is specific. If a paragraph has no proper noun, number, or named entity, it's floating.
+**Specificity ratio** — Count vague nouns vs. named things. "Teams struggle" is vague. "Stripe’s engineering team" is specific. If a paragraph has no proper noun, number, or named entity, it's floating.
 
 When a floating paragraph is found, stop before fixing it. Ask the user:
 
