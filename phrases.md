@@ -128,14 +128,50 @@ Sentences that announce importance without naming the specific thing. Kill these
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
 
 ## Subtle AI tells
-These are the patterns that may survive. Remove them:
+These survive the first pass because they don't appear on standard lists. They're subtler than obvious slop but produce the same distance and drift. Look for these after clearing the obvious patterns.
+Lazy connectors — the writer didn't earn the transition:
 
-"This means that..." — lazy connector. The writer didn't earn the transition.
-"This creates a situation where..." — same problem, longer.
-"When you X, you Y" — sounds conditional and thoughtful, reads as filler.
-"In many ways" — vague hedge doing nothing.
-"There's something about X that..." — circling the point instead of making it.
-"What this looks like in practice" — announcing the example instead of giving it.
-"It's a reminder that..." — moralizing closer.
-"And yet." — performative tension. Almost always cuttable.
-"The result?" — rhetorical pause before stating the obvious.
+"This means that..."
+"This creates a situation where..."
+"This leads to..."
+"Which means..."
+
+Conditional filler — sounds thoughtful, reads as stall:
+
+"When you X, you Y" (as an opener)
+"If you've ever X, you know Y"
+"For many people..."
+"In many ways..."
+
+Circling instead of landing:
+
+"There's something about X that..."
+"What makes X interesting is..."
+"Part of what makes X work is..."
+
+Announcing the example instead of giving it:
+
+"What this looks like in practice..."
+"Here's an example of that:"
+"To illustrate this point..."
+
+Moralizing closers:
+
+"It's a reminder that..."
+"That's worth remembering."
+"That's the lesson here."
+
+Performative tension:
+
+"And yet."
+"But here's the thing."
+"Except."
+(as standalone sentences for dramatic effect)
+
+Rhetorical pause before stating the obvious:
+
+"The result?"
+"The answer?"
+"Why?"
+
+Generative rule: These patterns exist because the model is buying time before committing to a specific claim. Any sentence that announces, circles, or pauses before the point is doing this. The fix is always the same: delete the setup and open with the claim.
