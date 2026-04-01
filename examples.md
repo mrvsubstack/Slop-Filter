@@ -129,3 +129,47 @@ These don't trigger any obvious rule. They pass a surface read. They still fail.
 > "The feedback said the same thing: wrong problem. The team rewrote the roadmap."
 
 **What failed and why:** "A picture began to emerge" gives agency to an abstraction. "The roadmap shifted" hides who shifted it. Both constructions avoid naming actors. The rewrite names what the feedback actually said and names who made the decision.
+
+---
+
+### Example 11: Opener Uniformity
+
+**Before:**
+> "The team shipped fast. The product had bugs. The users complained. The engineers fixed it. The cycle repeated."
+
+**After:**
+> "The team shipped fast. Bugs followed. Users complained. Three engineers spent a weekend fixing it. Then it happened again."
+
+**What failed and why:** Five consecutive sentences start with "The." No individual sentence is wrong — the pattern is the problem. The rewrite varies openers: "The", "Bugs", "Users", "Three engineers", "Then." Each sentence now enters differently. Same facts, different rhythm.
+
+---
+
+### Example 12: Semantic Repetition
+
+**Before:**
+> "Most founders underestimate how long distribution takes. Getting product-market fit is hard, but getting the product in front of the right people is harder.
+>
+> Distribution is the hardest part of building a company. It takes longer than you think and costs more than you budget."
+
+**After:**
+> "Most founders underestimate distribution. Getting in front of the right people takes longer and costs more than building the product.
+>
+> Sequoia's data puts it bluntly: the average B2B startup spends 18 months finding repeatable channels."
+
+**What failed and why:** Paragraph one ends by saying distribution is hard. Paragraph two opens by saying distribution is the hardest part. Same claim, different words, no new information. The rewrite cuts the restatement and opens paragraph two with a specific data point — something the reader didn't already have.
+
+---
+
+### Example 13: Topic Sentence Pattern
+
+**Before:**
+> "Remote work changes how teams communicate. Without hallway conversations, information flows differently. Decisions that once happened informally now require scheduled meetings. Teams compensate with more Slack messages, which creates notification overload.
+>
+> Trust becomes harder to build remotely. Managers can't observe work directly. New hires struggle to understand unwritten norms. Performance review cycles become more important as a result."
+
+**After:**
+> "Nobody scheduled the hallway conversation where the product pivot happened. It was 4pm on a Tuesday, three people waiting for the elevator. Six months into remote work, that kind of decision now takes a calendar invite, three Slack threads, and a doc nobody reads past the first paragraph.
+>
+> New hires have it worse. They're learning the job and the culture simultaneously, with no casual observation to fill the gaps. Most figure out the unwritten rules in month four or five — if they stay that long."
+
+**What failed and why:** Both original paragraphs open with broad topic sentences ("Remote work changes..." / "Trust becomes...") that summarize everything that follows. Reading only the first sentences tells you the whole piece. The rewrite opens with a specific scene — the elevator, the Tuesday, the product pivot. The general point arrives at the end, earned by the specific. The reader discovers it rather than being told it upfront.
