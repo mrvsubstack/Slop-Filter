@@ -5,7 +5,7 @@
 **Score prose · Diagnose failures · Rewrite clean · Two-pass validation**
 
 ---
-# INTRO
+## INTRO
 AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them. Use this when you want your writing to sound like a real person. Use it when drafting, rewriting content, editing, or reviewing text to eliminate predictable AI tells.
 
 ## The problem with AI Humanizers
