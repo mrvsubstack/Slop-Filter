@@ -1,5 +1,6 @@
-# stop-the-slop
-A skill for removing AI tells from prose.
+# stop-the-slop 🤖❌
+A skill that strips out AI-sounding patterns and makes writing feel natural and human.
+![IMG_6706](https://github.com/user-attachments/assets/7e90bea8-8aa7-4382-812c-478faea44ed6)
 
 ## What this is
 
