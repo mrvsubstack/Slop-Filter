@@ -68,7 +68,7 @@ Run before delivering any prose:
  
 Rate 1–10 on each dimension using the anchors below.
  
-| Dimension | 10 | 5 | 1 |
+| Dimension | 10 /10| 5/10 | 1/10 |
 |-----------|-----|---|---|
 | Directness | Immediate point | Mixed setup | Buried point |
 | Naturalness | Human voice | Mixed AI signals | Template-heavy |
