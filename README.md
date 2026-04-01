@@ -39,7 +39,7 @@ stop-slop/
 
 **Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
 
-**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
+**Sentence-level rules** - No sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
 
 ## Scoring
 
