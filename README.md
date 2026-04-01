@@ -7,7 +7,7 @@ A skill for removing AI tells from prose.
 AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them.
 Use this when you want your writing to sound like a real person. Use it when drafting, rewriting content, editing, or reviewing text to eliminate predictable AI tells.
 
-## Whos's this for?
+## Whose's it for
 Content creators and writers 👍✅
 
 ## How to use it
