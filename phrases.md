@@ -126,3 +126,16 @@ Sentences that announce importance without naming the specific thing. Kill these
 - "The consequences are real"
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+
+Subtle AI tells
+These are the patterns that may survive. Remove them:
+
+"This means that..." — lazy connector. The writer didn't earn the transition.
+"This creates a situation where..." — same problem, longer.
+"When you X, you Y" — sounds conditional and thoughtful, reads as filler.
+"In many ways" — vague hedge doing nothing.
+"There's something about X that..." — circling the point instead of making it.
+"What this looks like in practice" — announcing the example instead of giving it.
+"It's a reminder that..." — moralizing closer.
+"And yet." — performative tension. Almost always cuttable.
+"The result?" — rhetorical pause before stating the obvious.
