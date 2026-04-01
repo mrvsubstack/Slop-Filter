@@ -2,7 +2,7 @@
 
 ## Binary Contrasts
 
-These create false drama. State the point directly.
+**Generative rule:** The negation exists to manufacture anticipation. The writer sets up X so the reader leans in for Y. Remove the negation and the prose has to earn attention through the idea itself. If Y can't stand alone, Y isn't strong enough.
 
 | Pattern | Problem |
 |---------|---------|
@@ -18,22 +18,26 @@ These create false drama. State the point directly.
 | "is about X but not Y" | False distinction |
 | "not just X but also Y" | Additive hedge |
 
-**Instead:** State Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
+**Fix:** State Y directly. "The problem is Y." Drop the negation entirely.
+
+---
 
 ## Negative Listing
 
-Listing what something is *not* before revealing what it *is*. A rhetorical striptease.
+**Generative rule:** Listing what something is *not* is a rhetorical striptease — the writer builds suspense through withholding. It feels clever. It reads as stall. The reader doesn't need the runway. Give them Z.
 
 | Pattern | Problem |
 |---------|---------|
 | "Not a X... Not a Y... A Z." | Dramatic buildup through negation |
 | "It wasn't X. It wasn't Y. It was Z." | Same structure, past tense |
 
-**Instead:** State Z. The reader doesn't need the runway.
+**Fix:** State Z. Cut everything before it.
+
+---
 
 ## Dramatic Fragmentation
 
-Sentence fragments for emphasis read as manufactured profundity.
+**Generative rule:** Fragments signal the writer believes the *presentation* of an idea is more interesting than the idea itself. It's a substitute for substance. Complete sentences force the claim to carry its own weight.
 
 | Pattern | Problem |
 |---------|---------|
@@ -41,11 +45,13 @@ Sentence fragments for emphasis read as manufactured profundity.
 | "X. And Y. And Z." | Staccato drama |
 | "This unlocks something. [Word]." | Artificial revelation |
 
-**Instead:** Complete sentences. Trust content over presentation.
+**Fix:** Complete sentences. Trust content over presentation.
+
+---
 
 ## Rhetorical Setups
 
-These announce insight rather than deliver it.
+**Generative rule:** These announce insight rather than deliver it. The model is performing the *shape* of a smart thought — the pause, the pivot, the reveal — without committing to the thought. Any sentence that tells the reader how to feel about what's coming is doing this.
 
 | Pattern | Problem |
 |---------|---------|
@@ -54,7 +60,9 @@ These announce insight rather than deliver it.
 | "Think about it:" | Condescending prompt |
 | "And that's okay." | Unnecessary permission |
 
-**Instead:** Make the point. Let readers draw conclusions.
+**Fix:** Make the point. Let readers draw conclusions.
+
+---
 
 ## Formulaic Constructions
 
@@ -63,9 +71,11 @@ These announce insight rather than deliver it.
 | "By the time X, I was Y." | Narrative template |
 | "X that isn't Y" | Indirect. Say "X is broken" |
 
+---
+
 ## False Agency
 
-Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't "live or die." Decisions don't "emerge." A person does something to make those things happen. AI loves this because it avoids naming the actor.
+**Generative rule:** AI avoids naming actors because naming requires commitment. "The decision emerged" implicates nobody. "Sarah decided on Friday" implicates someone. Vague subjects feel safer. Any time an inanimate thing performs a human action, a person has been hidden. Find them.
 
 | Pattern | Problem |
 |---------|---------|
@@ -77,11 +87,13 @@ Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't
 | "the data tells us" | Data sits there. Someone reads it and draws a conclusion. |
 | "the market rewards" | Markets don't reward. Buyers pay for things. |
 
-**Instead:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
+**Fix:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
+
+---
 
 ## Narrator-from-a-Distance
 
-Floating above the scene instead of putting the reader in it.
+**Generative rule:** The model floats above the scene because specificity requires commitment to a particular vantage point. "Nobody designed this" sounds observational and wise. It's actually evasion — the writer refuses to put anyone, including the reader, in the room. Specificity collapses distance.
 
 | Pattern | Problem |
 |---------|---------|
@@ -90,11 +102,13 @@ Floating above the scene instead of putting the reader in it.
 | "This is why..." | Same |
 | "People tend to..." | Armchair sociologist |
 
-**Instead:** Put the reader in the room. "You don't sit down one day and decide to..." beats "Nobody designed this."
+**Fix:** Put the reader in the room. "You don't sit down one day and decide to..." beats "Nobody designed this."
+
+---
 
 ## Passive Voice
 
-Every sentence needs a subject doing something. Passive voice hides the actor and drains energy.
+**Generative rule:** Passive voice hides the actor and drains energy. Every sentence needs a subject doing something. The actor belongs at the front.
 
 | Pattern | Fix |
 |---------|-----|
@@ -103,7 +117,7 @@ Every sentence needs a subject doing something. Passive voice hides the actor an
 | "Mistakes were made" | Name who made them |
 | "The decision was reached" | Name who decided |
 
-**Instead:** Find the actor. Put them at the front of the sentence.
+---
 
 ## Sentence Starters to Avoid
 
@@ -115,6 +129,8 @@ Every sentence needs a subject doing something. Passive voice hides the actor an
 
 Wh- openers become a crutch. "What makes this hard is..." becomes "The constraint is..." or better, name the specific constraint.
 
+---
+
 ## Rhythm Patterns
 
 | Pattern | Fix |
@@ -125,6 +141,8 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 | Em-dashes | Remove. Use commas or periods. No em dashes at all. |
 | Staccato fragmentation | Don't stack short punchy sentences |
 | "Not always. Not perfectly." | Hedging disguised as reassurance |
+
+---
 
 ## Word Patterns
 
