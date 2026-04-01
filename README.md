@@ -1,4 +1,4 @@
-# stop-the-slop 🧹
+# stop-the-slop 🧹🤖
 
 ### The only Claude skill that catches what other tools miss
 
