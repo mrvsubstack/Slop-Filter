@@ -1,4 +1,4 @@
-# Structures to Avoid 
+# Structures to Avoid
 
 ## Binary Contrasts
 
@@ -19,6 +19,28 @@
 | "not just X but also Y" | Additive hedge |
 
 **Fix:** State Y directly. "The problem is Y." Drop the negation entirely.
+
+---
+
+### Exception: Earned Narrative Contrast
+
+Not all contrast is hollow. The rules above target contrast used as a *substitute* for content — where the structure is the point. When contrast reveals a genuine shift in understanding, it earns its place.
+
+**The test:** Remove the negation. Does Y still stand on its own as a real claim?
+
+- Hollow: "Not because the tech is complex. Because people are complex." → Remove the negation: "People are complex." That's a generic assertion. Nothing was revealed. The contrast was the whole move.
+- Earned: "I used to think my job was to sell houses. Now I know I'm selling peace of mind." → Remove the before: "I'm selling peace of mind." That's a real, specific reframe. The before makes it land harder, but the insight exists without it.
+
+**What makes contrast earned:**
+
+- The "before" contains a real prior belief the writer actually held, not a straw man set up to be knocked down
+- The "after" is specific enough to stand alone — it's not just "the opposite of the before"
+- The contrast reveals a shift in understanding, not just a rhetorical shape
+- The writer could name the moment or experience that caused the shift
+
+**Before/after structure in narrative writing** — showing how something changed — is a different category than binary contrast. "I used to X. Then Y happened. Now I Z." is a timeline with meaning attached. It is not the same as "Not X. It's Y." The first moves through time. The second just negates.
+
+**Flag hollow contrast. Pass earned contrast.**
 
 ---
 
