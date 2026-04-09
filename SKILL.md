@@ -13,7 +13,7 @@ description: "Eliminate AI writing patterns from prose — rewrites, edits, scor
 
 If the user only asks for a rewrite, skip to step 2.
 
-**Scoring is opt-in.** Only run the scoring rubric if the user explicitly asks for a score, asks "is this clean enough to publish?", or asks "how far off is this?" Do not lead with a number by default — the diagnosis already contains everything the score summarizes, with more precision.
+**Scoring is opt-in.** Only run the scoring rubric if the user explicitly asks for a score, asks "is this clean enough to publish?", or asks "how far off is this?" "Is this correct?" " is this clean" Do not lead with a number by default — the diagnosis already contains everything the score summarizes, with more precision.
 
 ---
 
