@@ -6,7 +6,7 @@
 
 ---
 ## INTRO
-AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them. Use this when you want your writing to sound like a real person. Use it when drafting, rewriting content, editing, or reviewing text to eliminate predictable AI tells.
+AI writing has patterns. And once you know what they are, you'll never read the same way again. It has Predictable phrases, recycled structures, rhythms that repeat so consistently they feel algorithmic — because they are. This skill teaches Claude to find them, name them, and cut them out by the root. Use it when you're drafting, rewriting, or editing anything where "good enough" isn't the standard.
 
 ## The problem with AI Humanizers
 Run your text through any “humanizer” and it’ll happily swap “utilize” for “use,” delete every “furthermore,” and its Done.
