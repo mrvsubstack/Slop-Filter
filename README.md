@@ -1,4 +1,5 @@
 # stop-the-slop 🧹🤖
+<img width="1815" height="576" alt="Gemini_Generated_Image_2hr1uy2hr1uy2hr1" src="https://github.com/user-attachments/assets/ae13bdf1-ce39-4f14-89b5-7a6471440a75" />
 
 ### The only Claude skill that catches what other tools miss
 
