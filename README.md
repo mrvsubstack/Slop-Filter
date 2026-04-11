@@ -1,8 +1,6 @@
 # stop-the-slop 🧹🤖
-<img width="1815" height="576" alt="Gemini_Generated_Image_2hr1uy2hr1uy2hr1" src="https://github.com/user-attachments/assets/ae13bdf1-ce39-4f14-89b5-7a6471440a75" />
-
 ### The only Claude skill that catches what other tools miss
-
+<img width="390" height="128" alt="Screenshot 2026-04-11 at 08 02 45" src="https://github.com/user-attachments/assets/d76cf668-14c9-45a0-8a77-5e8c04416039" />
 **Score prose · Diagnose failures · Rewrite clean · Two-pass validation**
 
 ---
