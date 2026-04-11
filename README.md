@@ -1,6 +1,6 @@
 # stop-the-slop 🧹🤖
 ### The only Claude skill that catches what other tools miss
-<img width="390" height="128" alt="Screenshot 2026-04-11 at 08 02 45" src="https://github.com/user-attachments/assets/d76cf668-14c9-45a0-8a77-5e8c04416039" />
+<img width="393" height="127" alt="Screenshot 2026-04-11 at 08 06 00" src="https://github.com/user-attachments/assets/0b67d3cc-661c-49b8-aa50-a37686b30ef0" />
 
 **Score prose · Diagnose failures · Rewrite clean · Two-pass validation**
 
