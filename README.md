@@ -1,4 +1,4 @@
-# Slop Filter 🧹🤖
+# Slop-Filter 🧹🤖
 ### The only Claude skill that catches what other tools miss
 <img width="393" height="127" alt="Screenshot 2026-04-11 at 08 06 00" src="https://github.com/user-attachments/assets/0b67d3cc-661c-49b8-aa50-a37686b30ef0" />
 
